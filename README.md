@@ -21,15 +21,11 @@ The calculator is intended for students performing laboratory work in classical 
 
 Acceleration:
 
-[
-a = \frac{2h}{t^2}
-]
+a = 2h/t^2
 
 Moment of inertia:
 
-[
-I = m r^2 \left(\frac{g}{a} - 1\right)
-]
+I = mr^2(g/a - 1)
 
 Where:
 
