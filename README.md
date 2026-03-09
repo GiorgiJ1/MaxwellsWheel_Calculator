@@ -67,13 +67,3 @@ Moment of inertia I = ...
 
 This program was created to assist with calculations in a **Maxwell's Wheel laboratory experiment**, commonly used to study rotational motion and moment of inertia.
 
----
-
-If you want, I can also give you a **really nice GitHub README version** with:
-
-* badges
-* physics diagrams
-* clean formatting
-* looks like a **serious engineering repo**
-
-which actually helps **a lot when recruiters or professors look at your GitHub**.
