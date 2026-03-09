@@ -1,11 +1,5 @@
 # MaxwellsWheel_Calculator
 
-Here’s a **clean GitHub description** you can use for the repository.
-
----
-
-## Maxwell's Wheel Physics Calculator (C++)
-
 This is a simple C++ console program that calculates key physical quantities for a **Maxwell's Wheel experiment**. The program uses measured experimental values to compute acceleration and the moment of inertia of the wheel.
 
 The calculator is intended for students performing laboratory work in classical mechanics.
